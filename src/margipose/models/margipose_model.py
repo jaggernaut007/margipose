@@ -16,7 +16,7 @@ Default_MargiPose_Desc = {
     'settings': {
         'n_stages': 4,
         'axis_permutation': True,
-        'feature_extractor': 'inceptionv4',
+        'feature_extractor': 'resnet50',
         'pixelwise_loss': 'jsd',
     },
 }
